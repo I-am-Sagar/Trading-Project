@@ -1,0 +1,2 @@
+orderid,timestamp,transactiontype,variety,ordertype,producttype,duration,exchange,tradingsymbol,symboltoken,quantity,price,amount
+0x26dfce56f21156b1,2022-06-14 05:58:07.831045,BUY,AMO,MARKET,MARGIN,IOC,NSE,HDFC-EQ,1330,4,1329,5316

@@ -1,0 +1,19 @@
+TASK 1: LONG TERM INVESTING PICKS
+    a) Get the historical data of atleast last 52 weeks all the tickers. 
+    b) Do the fundamental analysis on the companies. 
+    c) Get the long term picks in Excel sheet with reason. 
+
+TASK 2: GOOD SWING/DAY TRADING PICKS
+    a) Get the historical data of last one week but at 5 minute interval. 
+    b) Devise a method to screen the stocks which are good for trading. 
+    c) Get the short term picks in Excel sheet with reason. 
+
+TASK 3: TRADING ON LIVE DATA OF SWING/DAY PICKS
+    a) For the short term picks, get live market feed at intervals of 1 minute.
+    b) Devise a trading strategy. 
+    c) Place orders in an excel sheet. 
+
+TASK 4: ANALYSE THE TRADES MADE
+    a) Write a script which takes the orders sheet and makes the cumulative profit-loss statement. 
+
+---------------------------------------------------------------------------------------------------
